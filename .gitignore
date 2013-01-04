@@ -1,0 +1,7 @@
+.hg
+.idea
+.settings
+.classpath
+.hgignore
+.project
+target
